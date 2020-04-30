@@ -1,0 +1,5 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.miaodi.springboot.common.config.DataSourceConfig,\
+com.miaodi.springboot.common.config.DefaultProperties
+
